@@ -74,4 +74,6 @@ public class LevellingSystem : MonoBehaviour
         {
             Debug.Log("Gain more XP to level up.");
         }
+    }
 }
+
