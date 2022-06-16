@@ -189,14 +189,3 @@
 {"msg":"enqueueNode","enqueuedNodeAnnotation":"Csc Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.dll (+2 others)","enqueuedNodeIndex":153,"enqueueingNodeAnnotation":"CopyFiles Library/ScriptAssemblies/Assembly-CSharp.dll","enqueueingNodeIndex":189}
 {"msg":"enqueueNode","enqueuedNodeAnnotation":"WriteText Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.rsp","enqueuedNodeIndex":152,"enqueueingNodeAnnotation":"Csc Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.dll (+2 others)","enqueueingNodeIndex":153}
 {"msg":"enqueueNode","enqueuedNodeAnnotation":"CopyFiles Library/ScriptAssemblies/Assembly-CSharp.pdb","enqueuedNodeIndex":190,"enqueueingNodeAnnotation":"ScriptAssemblies","enqueueingNodeIndex":4}
-{"msg":"nodeRetryBuild","annotation":"Csc Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.dll (+2 others)","index":153}
-{"msg":"runNodeAction","annotation":"Csc Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.dll (+2 others)","index":153}
-{"msg":"noderesult","processed_node_count":186,"number_of_nodes_ever_queued":190,"annotation":"Csc Library/Bee/artifacts/1900b0aE.dag/Assembly-CSharp.dll (+2 others)","index":153,"exitcode":0,"outputfile":"Library\\Bee\\artifacts\\1900b0aE.dag\\Assembly-CSharp.dll"}
-{"msg":"newNode","annotation":"CopyFiles Library/ScriptAssemblies/Assembly-CSharp.dll","index":189}
-{"msg":"runNodeAction","annotation":"CopyFiles Library/ScriptAssemblies/Assembly-CSharp.dll","index":189}
-{"msg":"newNode","annotation":"CopyFiles Library/ScriptAssemblies/Assembly-CSharp.pdb","index":190}
-{"msg":"runNodeAction","annotation":"CopyFiles Library/ScriptAssemblies/Assembly-CSharp.pdb","index":190}
-{"msg":"noderesult","processed_node_count":187,"number_of_nodes_ever_queued":190,"annotation":"CopyFiles Library/ScriptAssemblies/Assembly-CSharp.dll","index":189,"exitcode":0,"outputfile":"Library\\ScriptAssemblies\\Assembly-CSharp.dll"}
-{"msg":"noderesult","processed_node_count":188,"number_of_nodes_ever_queued":190,"annotation":"CopyFiles Library/ScriptAssemblies/Assembly-CSharp.pdb","index":190,"exitcode":0,"outputfile":"Library\\ScriptAssemblies\\Assembly-CSharp.pdb"}
-{"msg":"newNode","annotation":"ScriptAssemblies","index":4}
-{"msg":"runNodeAction","annotation":"ScriptAssemblies","index":4}

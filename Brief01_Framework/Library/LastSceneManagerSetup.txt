@@ -1,5 +1,5 @@
 sceneSetups:
-- path: C:/Users/Chester Rocela/Desktop/Brief 01/Brief01_Framework/Assets/Scenes/MainScene.unity
+- path: Assets/Scenes/MainScene.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
